@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ccad4af85688a542",
+        "id": "2064ba2d9bfb38ef",
         "type": "tabs",
         "children": [
           {
-            "id": "3a81faaac6d4f904",
+            "id": "6a9c9f5cd8548341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programming Link.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -171,8 +171,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a81faaac6d4f904",
+  "active": "6a9c9f5cd8548341",
   "lastOpenFiles": [
+    "Subfolder/Git bash.md",
+    "Programming Link.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Subfolder/Bro Code.md",
     "Subfolder/Programming Things.md",
     "Subfolder/DSA.md",
     "Subfolder/DSA Notes.md",
@@ -180,7 +185,6 @@
     "Programming/Data Structure freeCodeCamp/Binary Search Tree Introduction.md",
     "Programming/Data Structure freeCodeCamp/Breadth First Search.md",
     "Programming/Data Structure freeCodeCamp/Abstract Data Types.md",
-    "Programming Link.md",
     "Subfolder/Things I need to learn.md",
     "Subfolder/Issue Tracker.md",
     "Programming/Programming.md",
@@ -198,8 +202,6 @@
     "Threading Python.md",
     "Subfolder/Git.md",
     "Subfolder/Git Topics.md",
-    "Subfolder/Git Advance Commands.md",
-    "Subfolder/Git Examples.md",
     "image.png",
     "Subfolder",
     "huashi_summer.jpg",
@@ -209,8 +211,6 @@
     "Programming/Data Structure freeCodeCamp/Hash Table Introduciton/Linear, Quadratic, Double Hash",
     "Programming/Data Structure freeCodeCamp/Hash Table Introduciton",
     "Programming/Data Structure freeCodeCamp/Binary Search Tree Introduction/Code Implementation",
-    "Programming/Data Structure freeCodeCamp/Binary Search Tree Introduction",
-    "Programming/Data Structure freeCodeCamp/Priority Queue (PQs) Introduction/Code Implementation",
-    "Programming/Data Structure freeCodeCamp/Priority Queue (PQs) Introduction/Max Heapify"
+    "Programming/Data Structure freeCodeCamp/Binary Search Tree Introduction"
   ]
 }
