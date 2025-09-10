@@ -24,7 +24,7 @@
 | [[ForEach Loop Csharp]]                                                     | July 29, 2025 7:55 PM   |                  |
 | [[Methods Csharp]]                                                          | July 29, 2025 7:55 PM   |                  |
 | [[Return Keyword Csharp]]                                                   | July 29, 2025 8:06 PM   |                  |
-| [[Programming/Basics/Method Overloading Csharp\|Method Overloading Csharp]] | July 30, 2025 9:23 AM   |                  |
+| [[Programming/BroCode/Basics/Method Overloading Csharp\|Method Overloading Csharp]] | July 30, 2025 9:23 AM   |                  |
 | [[Params Keyword Csharp]]                                                   | July 30, 2025 9:29 AM   |                  |
 | [[Exception Handling Csharp]]                                               | July 30, 2025 11:45 AM  |                  |
 | [[Conditional Operator Csharp]]                                             | July 30, 2025 11:54 AM  |                  |
@@ -35,20 +35,20 @@
 | [[Constructors Csharp]]                                                     | July 31, 2025 8:15 AM   | OOP              |
 | [[Static Csharp]]                                                           | July 31, 2025 8:30 AM   | OOP              |
 | [[Overloading the Constructors Csharp]]                                     | July 31, 2025 8:37 AM   | OOP              |
-| [[Programming/Basics/Inheritance Csharp\|Inheritance Csharp]]               | July 31, 2025 8:54 AM   | OOP              |
+| [[Programming/BroCode/Basics/Inheritance Csharp\|Inheritance Csharp]]               | July 31, 2025 8:54 AM   | OOP              |
 | [[Abstract Classses Csharp]]                                                | July 31, 2025 9:16 AM   | OOP              |
 | [[Array of Objects Csharp]]                                                 | July 31, 2025 9:23 AM   | OOP              |
 | [[Objects as arguments Csharp]]                                             | July 31, 2025 9:43 AM   | OOP              |
-| [[Programming/Basics/Method Overriding Csharp\|Method Overriding Csharp]]   | July 31, 2025 9:56 AM   | OOP              |
+| [[Programming/BroCode/Basics/Method Overriding Csharp\|Method Overriding Csharp]]   | July 31, 2025 9:56 AM   | OOP              |
 | [[ToStirng Csharp]]                                                         | July 31, 2025 7:38 PM   | OOP              |
-| [[Programming/Basics/Polymorphism Csharp\|Polymorphism Csharp]]             | July 31, 2025 7:44 PM   | OOP              |
-| [[Programming/Basics/Interfaces Csharp\|Interfaces Csharp]]                 | July 31, 2025 8:00 PM   | OOP              |
+| [[Programming/BroCode/Basics/Polymorphism Csharp\|Polymorphism Csharp]]             | July 31, 2025 7:44 PM   | OOP              |
+| [[Programming/BroCode/Basics/Interfaces Csharp\|Interfaces Csharp]]                 | July 31, 2025 8:00 PM   | OOP              |
 | [[List Csharp]]                                                             | July 31, 2025 8:16 PM   | OOP              |
 | [[List of Objects Csharp]]                                                  | July 31, 2025 8:27 PM   | OOP              |
 | [[Getters & Setters Csharp]]                                                | July 31, 2025 8:48 PM   | OOP              |
 | [[Auto Implemented Properties Csharp]]                                      | August 1, 2025 6:59 AM  | OOP              |
 | [[Enums Csharp]]                                                            | August 1, 2025 7:10 AM  | OOP              |
-| [[Programming/Basics/Generics Csharp\|Generics Csharp]]                     | August 1, 2025 7:22 AM  | OOP              |
+| [[Programming/BroCode/Basics/Generics Csharp\|Generics Csharp]]                     | August 1, 2025 7:22 AM  | OOP              |
 | [[Multithreadning Csharp]]                                                  | August 1, 2025 7:34 AM  | OOP              |
 | [[Multiplication Table]]                                                    | August 1, 2025 4:31 PM  | Simple Challenge |
 | [[Password Checker]]                                                        | August 1, 2025 8:24 PM  | Simple Challenge |

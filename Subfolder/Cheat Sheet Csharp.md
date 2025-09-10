@@ -2,7 +2,7 @@
 
 |Name|Created|Tags|
 |---|---|---|
-|[[Programming/Basics/Interfaces Csharp]]|August 7, 2025 8:10 PM|OOP|
+|[[Programming/BroCode/Basics/Interfaces Csharp]]|August 7, 2025 8:10 PM|OOP|
 |[[Constructors (Default, Parametereized, Static) Csharp]]|August 7, 2025 8:10 PM|OOP|
 |[[Fields & Properties Csharp]]|August 7, 2025 8:10 PM|OOP|
 |[[Encapsulation Csharp]]|August 7, 2025 8:10 PM|OOP|
@@ -11,14 +11,14 @@
 |[[Sealed Classes Csharp Csharp]]|August 7, 2025 8:10 PM|OOP|
 |[[Classses & Objects Csharp]]|August 7, 2025 8:10 PM|OOP|
 |[[foreach Csharp]]|August 7, 2025 8:10 PM|Control Flow|
-|[[Programming/Basics/Method Overriding Csharp]]|August 7, 2025 8:10 PM|OOP|
+|[[Programming/BroCode/Basics/Method Overriding Csharp]]|August 7, 2025 8:10 PM|OOP|
 |[[new Keyword]]|August 7, 2025 8:10 PM|OOP|
 |[[return Csharp]]|August 7, 2025 8:10 PM|Control Flow|
-|[[Programming/Basics/Generics Csharp]]|August 7, 2025 8:10 PM|OOP|
+|[[Programming/BroCode/Basics/Generics Csharp]]|August 7, 2025 8:10 PM|OOP|
 |[[this keyword Csharp]]|August 7, 2025 8:10 PM|OOP|
-|[[Programming/Basics/Inheritance Csharp]]|August 7, 2025 8:10 PM|OOP|
+|[[Programming/BroCode/Basics/Inheritance Csharp]]|August 7, 2025 8:10 PM|OOP|
 |[[Static Classes & Members Csharp]]|August 7, 2025 8:10 PM|OOP|
-|[[Programming/Basics/Polymorphism Csharp]]|August 7, 2025 8:10 PM|OOP|
+|[[Programming/BroCode/Basics/Polymorphism Csharp]]|August 7, 2025 8:10 PM|OOP|
 |[[for Csharp]]|August 7, 2025 8:10 PM|Control Flow|
 |[[goto Csharp]]|August 7, 2025 8:10 PM|Control Flow|
 |[[Break Csharp]]|August 7, 2025 8:10 PM|Control Flow|
@@ -27,7 +27,7 @@
 |[[whie Csharp]]|August 7, 2025 8:10 PM|Control Flow|
 |[[Conditional Statements Csharp]]|August 7, 2025 8:10 PM|Control Flow|
 |[[Default Parameters Csharp]]|August 7, 2025 8:10 PM|Methods (Functions)|
-|[[Programming/Basics/Method Overloading Csharp]]|August 7, 2025 8:10 PM|Methods (Functions)|
+|[[Programming/BroCode/Basics/Method Overloading Csharp]]|August 7, 2025 8:10 PM|Methods (Functions)|
 |[[Recursion Csharp]]|August 7, 2025 8:10 PM|Methods (Functions)|
 |[[Return Types Csharp]]|August 7, 2025 8:10 PM|Methods (Functions)|
 |[[String Methods (Substring(), IndexOf(), Replace(), Split(), ToUpper(), Trim(), etc.) Csharp]]|August 7, 2025 8:10 PM|String Manipulation|

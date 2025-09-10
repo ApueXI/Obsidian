@@ -2,8 +2,8 @@
 
 |Name|Created|Tags|
 |---|---|---|
-|[[Programming/Basic/PathLib]]|August 23, 2025 8:02 AM|Extra|
-|[[Programming/Basic/Logging]]|August 23, 2025 8:02 AM|Extra|
+|[[Programming/BroCode/Basic/PathLib]]|August 23, 2025 8:02 AM|Extra|
+|[[Programming/BroCode/Basic/Logging]]|August 23, 2025 8:02 AM|Extra|
 |[[Writing simple CLI tools with argparse Python]]|August 21, 2025 7:29 PM|Extra|
 |[[Creating basic REPLs or interpreters Python]]|August 21, 2025 7:29 PM|Extra|
 |[[Implementing small data structure manually (linked list, stack, queue) Python]]|August 21, 2025 7:29 PM|Extra|
@@ -65,7 +65,7 @@
 |[[Instance & Class Attributes Python]]|August 21, 2025 7:29 PM|OOP|
 |[[Methods vs Static Methods (@staticmethod) Python]]|August 21, 2025 7:29 PM|OOP|
 |[[Class Methods (@classmethod)]]|August 21, 2025 7:29 PM|OOP|
-|[[Programming/Basic/Inheritance Python]]|August 21, 2025 7:29 PM|OOP|
+|[[Programming/BroCode/Basic/Inheritance Python]]|August 21, 2025 7:29 PM|OOP|
 |[[Method Overriding Python]]|August 21, 2025 7:29 PM|OOP|
 |[[super() Python]]|August 21, 2025 7:29 PM|OOP|
 |[[Encapsulation (convention- _protected, __private) Python]]|August 21, 2025 7:29 PM|OOP|
@@ -89,7 +89,7 @@
 |[[Print Python]]|August 21, 2025 7:29 PM|Basic Syntax|
 |[[Data Types Python]]|August 21, 2025 7:29 PM|Basic Syntax|
 |[[Tuples Python]]|August 21, 2025 7:29 PM|Data Structure|
-|[[Programming/Basic/Dictionaries Python]]|August 21, 2025 7:29 PM|Data Structure|
+|[[Programming/BroCode/Basic/Dictionaries Python]]|August 21, 2025 7:29 PM|Data Structure|
 |[[Set & set Operations Python]]|August 21, 2025 7:29 PM|Data Structure|
 |[[String & String Methods Python]]|August 21, 2025 7:29 PM|Data Structure|
 |[[List & List Methods Python]]|August 21, 2025 7:29 PM|Data Structure|
