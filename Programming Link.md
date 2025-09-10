@@ -16,8 +16,6 @@
 
 ## [[Hoisting & TDZ]]
 
-![[Git]]
-
 
 > [!important]
 > 
