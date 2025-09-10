@@ -1,6 +1,6 @@
 ## [[DSA]]
 
-## [[Dynamic Programmingg]]
+## [[Dynamic Programming]]
 
 ## [[Design Pattern]]
 
