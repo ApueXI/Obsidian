@@ -8,45 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19188b4fc9d037db",
+            "id": "fabbbc7a828f2214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Link.md",
+                "file": "zFrontend Link.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Link"
+              "title": "zFrontend Link"
             }
           },
           {
-            "id": "1118c02f3916358d",
+            "id": "a7ea93b48f56a5b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subfolder/Cheat Sheet Folder/Dart Cheat Sheet.md",
+                "file": "zProgramming Links.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dart Cheat Sheet"
+              "title": "zProgramming Links"
             }
           },
           {
-            "id": "e1bf08f4f786f9c7",
+            "id": "9044b0fd1a60a50f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subfolder/Cheat Sheet Folder/Cheat Sheet Python.md",
+                "file": "Programming/Flask/Pytest Flask.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheat Sheet Python"
+              "title": "Pytest Flask"
             }
           },
           {
@@ -214,47 +214,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162b83454cecf516",
+  "active": "fabbbc7a828f2214",
   "lastOpenFiles": [
-    "Subfolder/Cheat Sheet Folder/Dart Cheat Sheet.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/async & await.md",
-    "Subfolder/Cheat Sheet Folder/Programming Cheat Sheet.md",
-    "Subfolder/Programming Things.md",
-    "Programming Link.md",
-    "Subfolder/Roadmap/Programming Roadmap.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/try - catch - on - finally.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Fields & methods.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Constructors (default, named, factory).md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Immutability with const.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Arithmetic- +, -, , -, ~-, %.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Loops- for, while, do-while.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/if, else if, else.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Static methods & variables.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Dark SDK Structure.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Default parameter values.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Arrow functions (=).md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/StringBuffer, RegExp.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Null-aware- , =,.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Lexical closures.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Cascade- .. and.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Defining a class.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Const constructors.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Custom exceptions (extend Exception).md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Entry point- main() function.md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet/Inheritance (extends).md",
-    "Programming/Cheat Sheet/Dart Cheat Sheet",
+    "Programming/Cheat Sheet/Python Cheat Sheet/PyTest Python.md",
+    "Programming/Flask/Pytest Flask.md",
+    "zFrontend Link.md",
+    "zProgramming Links.md",
+    "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet Python.md",
+    "Subfolder Frontend/Color Scheme.md",
+    "Subfolder Programming/Cheat Sheet Folder/Programming Cheat Sheet.md",
+    "Subfolder Programming/Programming Things.md",
+    "Subfolder Programming/Roadmap/Programming Roadmap.md",
+    "Subfolder Frontend/prettierrc.md",
+    "Subfolder Frontend/Fontawesome.md",
+    "Subfolder Frontend/Library and Framework.md",
+    "Subfolder Frontend/Tailwind.md",
+    "Subfolder Frontend/Things to learn in React.md",
+    "Subfolder Frontend/Link React.md",
+    "Subfolder Frontend/Link JS.md",
+    "Subfolder Frontend/Link CSS.md",
+    "Subfolder Frontend/Link HTML.md",
+    "Subfolder Frontend/Important.md",
+    "MySQL.md",
+    "Subfolder Frontend",
+    "Drop Down Menu CSS.md",
+    "88eebc2a-7ab4-45de-bd2f-cd581cf9cbcf.jpg",
+    "huashi_summer_steps.jpg",
+    "Front End/JS/Session Storage JS.md",
+    "Front End/JS/Local Storage JS.md",
+    "Front End/JS/Indexed DB JS.md",
+    "Front End/JS/Event Listener.md",
+    "Front End/JS/HTML Form JS.md",
+    "Front End/JS",
+    "Front End/CSS",
+    "Front End/HTML",
+    "Front End/React",
+    "Front End",
     "Notion",
+    "Programming/Cheat Sheet/Dart Cheat Sheet",
     "Pasted image 20250910202912.png",
     "Python Bro Code.base",
     "bro.base",
-    "Python.base",
     "image.png",
-    "Subfolder/Web Dev Folder",
-    "Subfolder/DSA Folder",
-    "Subfolder/Git Folder",
-    "Subfolder/Cheat Sheet Folder",
-    "Subfolder/BroCode Folder",
-    "88eebc2a-7ab4-45de-bd2f-cd581cf9cbcf.jpg",
     "huashi_summer.jpg"
   ]
 }
