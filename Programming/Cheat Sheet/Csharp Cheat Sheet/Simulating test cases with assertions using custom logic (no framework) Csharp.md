@@ -24,7 +24,7 @@ This is useful for:
 
 Create a small **assertion utility class** like this:
 
-```C#
+```Csharp
 public static class Assert {
     public static void AreEqual<T>(T expected, T actual, string message = "") {
         if (!EqualityComparer<T>.Default.Equals(expected, actual)) {
@@ -76,7 +76,7 @@ public static class Assert {
 
 ### 🔸 Class Under Test:
 
-```C#
+```Csharp
 public class Calculator {
     public int Add(int a, int b) => a + b;
     public int Divide(int a, int b) => b == 0 ? throw new DivideByZeroException() : a / b;
@@ -85,7 +85,7 @@ public class Calculator {
 
 ### 🔸 Simulated Test Class:
 
-```C#
+```Csharp
 public static class CalculatorTests {
     public static void RunAllTests() {
         var calc = new Calculator();
@@ -114,7 +114,7 @@ public static class CalculatorTests {
 
 ### 🔸 Program Entry:
 
-```C#
+```Csharp
 public static void Main() {
     CalculatorTests.RunAllTests();
 }
@@ -124,7 +124,7 @@ public static void Main() {
 
 ## 🛠️ 5. Bonus: Minimal Test Runner Template
 
-```C#
+```Csharp
 public class TestRunner {
     public static void Run(params Action[] tests) {
         int passed = 0, failed = 0;
@@ -147,7 +147,7 @@ public class TestRunner {
 
 ### Use it like:
 
-```C#
+```Csharp
 TestRunner.Run(
     () => Assert.AreEqual(4, 2 + 2),
     () => Assert.IsTrue("abc".Contains("a")),

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6655ec4ec59feed",
+        "id": "1ed7de6347c4f7c1",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb50bd874f6ddfe",
+            "id": "19188b4fc9d037db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,48 @@
               },
               "icon": "lucide-file",
               "title": "Programming Link"
+            }
+          },
+          {
+            "id": "1118c02f3916358d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subfolder/Cheat Sheet Folder/Dart Cheat Sheet.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dart Cheat Sheet"
+            }
+          },
+          {
+            "id": "e1bf08f4f786f9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subfolder/Cheat Sheet Folder/Cheat Sheet Python.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheat Sheet Python"
+            }
+          },
+          {
+            "id": "5bf5b632075791d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cheat Sheet/Python Cheat Sheet/PyTest Python.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PyTest Python"
             }
           }
         ]
@@ -94,8 +136,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Programming/Advanced Features/Cherry-picking commits (git cherry-pick).md",
-                "collapseAll": false,
+                "file": "Programming Link.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cherry-picking commits (git cherry-pick)"
+              "title": "Backlinks for Programming Link"
             }
           },
           {
@@ -113,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Programming/Advanced Features/Cherry-picking commits (git cherry-pick).md",
+                "file": "Programming Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cherry-picking commits (git cherry-pick)"
+              "title": "Outgoing links from Programming Link"
             }
           },
           {
@@ -142,16 +184,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Programming/Advanced Features/Cherry-picking commits (git cherry-pick).md",
+                "file": "Programming Link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cherry-picking commits (git cherry-pick)"
+              "title": "Outline of Programming Link"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,45 +214,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fb50bd874f6ddfe",
+  "active": "162b83454cecf516",
   "lastOpenFiles": [
-    "Programming Link.md",
-    "Subfolder/Things I need to learn.md",
+    "Subfolder/Cheat Sheet Folder/Dart Cheat Sheet.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/async & await.md",
+    "Subfolder/Cheat Sheet Folder/Programming Cheat Sheet.md",
     "Subfolder/Programming Things.md",
-    "Subfolder/Design Pattern.md",
-    "Subfolder/Dynamic Programming.md",
-    "Subfolder/Web Dev Folder/Web Security.md",
+    "Programming Link.md",
+    "Subfolder/Roadmap/Programming Roadmap.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/try - catch - on - finally.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Fields & methods.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Constructors (default, named, factory).md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Immutability with const.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Arithmetic- +, -, , -, ~-, %.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Loops- for, while, do-while.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/if, else if, else.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Static methods & variables.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Dark SDK Structure.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Default parameter values.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Arrow functions (=).md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/StringBuffer, RegExp.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Null-aware- , =,.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Lexical closures.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Cascade- .. and.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Defining a class.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Const constructors.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Custom exceptions (extend Exception).md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Entry point- main() function.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Inheritance (extends).md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet",
+    "Notion",
+    "Pasted image 20250910202912.png",
+    "Python Bro Code.base",
+    "bro.base",
+    "Python.base",
+    "image.png",
     "Subfolder/Web Dev Folder",
     "Subfolder/DSA Folder",
-    "Subfolder/Roadmap/Programming Roadmap.md",
-    "Subfolder/Cheat Sheet Folder/Programming Cheat Sheet.md",
-    "Subfolder/Git Folder/Git Examples.md",
     "Subfolder/Git Folder",
     "Subfolder/Cheat Sheet Folder",
     "Subfolder/BroCode Folder",
-    "Subfolder/Roadmap/Untitled",
-    "Subfolder/Roadmap/Apache Roadmap.md",
-    "Subfolder/Roadmap",
-    "Subfolder/Git Folder/Git Topics.md",
-    "Programming/Git Folder/Fundamentals/Git configuration (username, email, editor).md",
-    "Programming/Git Folder/Fundamentals/What is Git (version control basics).md",
-    "Subfolder/Web Dev Folder/Web Dev Topics Long.md",
-    "Programming/Web Dev Topics Folder",
-    "Programming/Git Folder/Advanced Features/Cherry-picking commits (git cherry-pick).md",
-    "Programming/Git Folder/Branching & Merging/Creating and switching branches (git branch, git checkout, git switch).md",
-    "Programming/Git Folder/Fundamentals/Cloning repositories (git clone).md",
-    "Programming/Git Folder",
-    "Subfolder/DSA Folder/DSA.md",
-    "Programming/Data Structure freeCodeCamp/Abstract Data Types.md",
-    "Subfolder/DSA Folder/DSA Notes.md",
-    "Subfolder/Roadmap/DSA Roadmap.md",
-    "Subfolder/Cheat Sheet Folder/Cheat Sheet Csharp.md",
-    "Programming/BroCode/Basics/Interfaces Csharp.md",
-    "Subfolder/Cheat Sheet Folder/Cheat Sheet Python.md",
-    "Programming/BroCode/Basic/PathLib.md",
-    "Programming/Cheat Sheet",
-    "Subfolder/BroCode Folder/Bro Code.md",
-    "image.png",
     "88eebc2a-7ab4-45de-bd2f-cd581cf9cbcf.jpg",
     "huashi_summer.jpg"
   ]

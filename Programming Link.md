@@ -21,6 +21,8 @@
 > 
 > ## `type C:\Users\YourUserName\.ssh\id_ed25519.pub`
 > 
+> ## `cat ~/.ssh/id_ed25519.pub`
+> 
 > ## `Get-Content C:\Users\YourUserName\.ssh\id_ed25519.pub`
 
 > [!important]
