@@ -1,5 +1,5 @@
 
-> [!important]
+> [!SSH Key]
 > 
 > ## `type C:\Users\YourUserName\.ssh\id_ed25519.pub`
 > 
@@ -7,18 +7,14 @@
 > 
 > ## `Get-Content C:\Users\YourUserName\.ssh\id_ed25519.pub`
 
-> [!important]
+> [!Design Pattern]
 > 
-> ### ==[https://www.youtube.com/watch?v=BJatgOiiht4](https://www.youtube.com/watch?v=BJatgOiiht4)==
+> ### [7 Design Patterns EVERY Developer Should Know](https://www.youtube.com/watch?v=BJatgOiiht4)
 > 
->   
-> 
-> ### ==[https://www.youtube.com/watch?v=J1f5b4vcxCQ](https://www.youtube.com/watch?v=J1f5b4vcxCQ)==
+> ### [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 
-> [!important]
+> [!Something in excel or something]
 > 
 > ### `=A1 & "js"` in excel
 > 
->   
-> 
-> ### ==[https://tableconvert.com/markdown-to-csv](https://tableconvert.com/markdown-to-csv)==
+> ### [# Convert Markdown Table to CSV Online](https://tableconvert.com/markdown-to-csv)

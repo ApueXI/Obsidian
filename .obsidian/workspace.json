@@ -36,17 +36,31 @@
             }
           },
           {
+            "id": "932712465c08697f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final_Project_Needs_Links.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final_Project_Needs_Links"
+            }
+          },
+          {
             "id": "a7ea93b48f56a5b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet Dart.md",
+                "file": "Programming/Cheat Sheet/Python Cheat Sheet/Classes & Objects Python.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheat Sheet Dart"
+              "title": "Classes & Objects Python"
             }
           },
           {
@@ -76,8 +90,23 @@
               "icon": "lucide-file",
               "title": "Pytest Flask"
             }
+          },
+          {
+            "id": "d2117dec1b8541e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Data Structure freeCodeCamp/Introduction to Big-O.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Big-O"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,40 +257,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fabbbc7a828f2214",
+  "active": "932712465c08697f",
   "lastOpenFiles": [
-    "huashi_summer_steps.jpg",
-    "Subfolder Programming/Cheat Sheet Folder/Dart Cheat Sheet.md",
-    "Programming/Cheat Sheet/Csharp Cheat Sheet/ConGhub.md",
-    "Pasted image 20250910202912.png",
-    "MySQL.md",
-    "88eebc2a-7ab4-45de-bd2f-cd581cf9cbcf.jpg",
-    "Frontend Link.md",
     "Programming Links.md",
+    "Final_Project_Needs_Links.md",
+    "2nd_Year_1st_Sem_System/Dummy_acc.md",
+    "2nd_Year_1st_Sem_System/Reject flask code/Flask code that didnt work.md",
+    "2nd_Year_1st_Sem_System/Dio  + Cookie Jar.md",
+    "2nd_Year_1st_Sem_System/OAuth Client Secrets.png",
+    "2nd_Year_1st_Sem_System/google_credentials_system.png",
+    "Programming/Cheat Sheet/Python Cheat Sheet/Classes & Objects Python.md",
+    "Frontend Link.md",
+    "2nd_Year_1st_Sem_System/Reject flask code/Flask code that Work.md",
+    "2nd_Year_1st_Sem_System/flutter_web_auth_2.md",
+    "2nd_Year_1st_Sem_System/API Endpoints.md",
+    "2nd_Year_1st_Sem_System/Reject flask code/Add model.md",
+    "Subfolder Programming/Important.md",
+    "2nd_Year_1st_Sem_System/Reject flask code",
+    "2nd_Year_1st_Sem_System",
+    "Subfolder Programming/Programming Things.md",
+    "Subfolder Programming/DSA Folder/DSA.md",
+    "Subfolder Programming/DSA Folder/DSA Notes.md",
+    "Programming/Data Structure freeCodeCamp/Fenwick Tree.md",
+    "Programming/Data Structure freeCodeCamp/Queue Introduction.md",
+    "Programming/Data Structure freeCodeCamp/Introduction to Big-O.md",
+    "Subfolder Programming/Roadmap/DSA Roadmap.md",
+    "Subfolder Programming/Web Dev Folder/React Proxy & .env.md",
+    "Subfolder Programming/Web Dev Folder/Web Development Topics.md",
+    "Subfolder Programming/Roadmap/Web Dev Roadmap.md",
+    "Subfolder Programming/Power Shell Commands.md",
+    "Subfolder Programming/BroCode Folder/Bro Code.md",
+    "Pasted image 20250925141741.png",
+    "Subfolder Programming/Git Folder/Git.md",
+    "huashi_summer_steps.jpg",
+    "Pasted image 20250910202912.png",
+    "88eebc2a-7ab4-45de-bd2f-cd581cf9cbcf.jpg",
     "Subfolder Programming/Images/Pasted image 20250910202912.png",
     "Subfolder Programming/Images/88eebc2a-7ab4-45de-bd2f-cd581cf9cbcf.jpg",
     "Subfolder Programming/Images",
-    "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet Dart.md",
-    "Subfolder Programming/Cheat Sheet Folder/Programming Cheat Sheet.md",
-    "Subfolder Programming/Programming Things.md",
     "Untitled.base",
-    "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet Python.md",
-    "Subfolder Programming/Flask Stuff.md",
-    "Programming/Flask/Pytest Flask.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/PyTest Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/__name__ ==  “__main__” Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/Python Static Type.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/Unit Test Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/__slots__ to optimize memory Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/zip() Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/Writing simple CLI tools with argparse Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/working with file modes (r, w, a, rb, wb) Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/while Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/with context manager Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/Variable-length Arguments (args, kwargs) Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/Variable and Naming Rules Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/Understanding for loop iteration internally Python.md",
-    "Programming/Cheat Sheet/Python Cheat Sheet/type(), isInstance() Python.md",
     "Programming/Cheat Sheet/Python Cheat Sheet",
     "Programming/Cheat Sheet/Python Cheat Sheet",
     "Notion",
@@ -269,9 +303,6 @@
     "Subfolder Frontend",
     "Subfolder Programming/Images/huashi_summer_steps.jpg",
     "Front End/JS",
-    "Front End/CSS",
-    "Front End/HTML",
-    "Subfolder Programming/Images/image.png",
-    "huashi_summer.jpg"
+    "Subfolder Programming/Images/image.png"
   ]
 }
