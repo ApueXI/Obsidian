@@ -7,11 +7,12 @@
 > 
 > ## `Get-Content C:\Users\YourUserName\.ssh\id_ed25519.pub`
 
-> [!Design Pattern]
+> [!YouTube Vids]
 > 
 > ### [7 Design Patterns EVERY Developer Should Know](https://www.youtube.com/watch?v=BJatgOiiht4)
 > 
 > ### [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
+> ### [Please Master This MAGIC Python Feature... 🪄](https://www.youtube.com/watch?v=qqp6QN20CpE)
 
 > [!Something in excel or something]
 > 

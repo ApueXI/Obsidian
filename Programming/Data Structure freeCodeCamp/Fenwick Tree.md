@@ -380,7 +380,7 @@ Final tree array (1-indexed):
 
 ### Python
 
-```C++
+```python
 class FenwickTree:
     """
     Binary Indexed Tree (Fenwick Tree) implementation
@@ -434,7 +434,7 @@ if __name__ == "__main__":
 
 ### C#
 
-```C++
+```Csharp
 using System;
 
 /// <summary>

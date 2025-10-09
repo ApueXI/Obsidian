@@ -24,7 +24,7 @@
 |`git push origin --delete <branch>`|Delete remote branch|
 |`git fetch --prune`|Remove deleted remote branches locally|
 
-### Submodules (Used in Monorepos or Dependencies)
+### ==Submodules (Used in Monorepos or Dependencies)==
 
 |   |   |
 |---|---|

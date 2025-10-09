@@ -13,7 +13,7 @@ Use it to improve **readability**, **type safety**, and **code clarity** when wo
 
 ## 🧠 Syntax: Defining an Enum
 
-```C#
+```Csharp
 enum Days
 {
     Sunday,     // 0
@@ -28,7 +28,7 @@ enum Days
 
 > You can optionally assign custom values:
 
-```C#
+```Csharp
 enum Status
 {
     Inactive = 0,
@@ -42,7 +42,7 @@ enum Status
 
 ## 🚀 Using an Enum
 
-```C#
+```Csharp
 Status userStatus = Status.Active;
 
 if (userStatus == Status.Active)
@@ -55,7 +55,7 @@ if (userStatus == Status.Active)
 
 ## 🔄 Convert Enum to Int and Vice Versa
 
-```C#
+```Csharp
 int val = (int)Status.Suspended;      // → 20
 Status s = (Status)10;                // → Status.Banned
 ```
@@ -64,7 +64,7 @@ Status s = (Status)10;                // → Status.Banned
 
 ## 🧾 Enum with Switch Case
 
-```C#
+```csharp
 void PrintStatus(Status status)
 {
     switch (status)
@@ -86,7 +86,7 @@ void PrintStatus(Status status)
 
 ## 🛠 Real-world Example
 
-```C#
+```csharp
 enum UserRole
 {
     Guest,
@@ -112,7 +112,7 @@ class User
 
 Add `[Flags]` to combine enum values with bitwise operators:
 
-```C#
+```Csharp
 [Flags]
 enum Permissions
 {

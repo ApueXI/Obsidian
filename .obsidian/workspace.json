@@ -1,28 +1,56 @@
 {
   "main": {
-    "id": "c94ae246dba3e62c",
+    "id": "48c359f3a9fef802",
     "type": "split",
     "children": [
       {
-        "id": "1ed7de6347c4f7c1",
+        "id": "2f60b1bda6a21c16",
         "type": "tabs",
         "children": [
           {
-            "id": "fabbbc7a828f2214",
+            "id": "b0b5aa55c0ef8fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Links.md",
+                "file": "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet SQL.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Links"
+              "title": "Cheat Sheet SQL"
             }
           },
           {
-            "id": "9044b0fd1a60a50f",
+            "id": "a03e8bab33a1334c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java string format.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java string format"
+            }
+          },
+          {
+            "id": "8c636c1caaaab964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet Dart.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheat Sheet Dart"
+            }
+          },
+          {
+            "id": "327e36121ea14059",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,91 +64,49 @@
             }
           },
           {
-            "id": "932712465c08697f",
+            "id": "b8439f537643a365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final_Project_Needs_Links.md",
+                "file": "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet Csharp.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final_Project_Needs_Links"
+              "title": "Cheat Sheet Csharp"
             }
           },
           {
-            "id": "a7ea93b48f56a5b9",
+            "id": "e4ca45495b613482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cheat Sheet/Python Cheat Sheet/Classes & Objects Python.md",
+                "file": "Programming/Flask/Flask Snippets.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes & Objects Python"
-            }
-          },
-          {
-            "id": "5bf5b632075791d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cheat Sheet/Python Cheat Sheet/PyTest Python.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PyTest Python"
-            }
-          },
-          {
-            "id": "738ac018a4f0f2e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Flask/Pytest Flask.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pytest Flask"
-            }
-          },
-          {
-            "id": "d2117dec1b8541e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Data Structure freeCodeCamp/Introduction to Big-O.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Big-O"
+              "title": "Flask Snippets"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2ce64c59b0099f0e",
+    "id": "5e172e7566c87255",
     "type": "split",
     "children": [
       {
-        "id": "21aeb4d624d3cec7",
+        "id": "8ee1fb67da7508ca",
         "type": "tabs",
         "children": [
           {
-            "id": "162b83454cecf516",
+            "id": "a0cccee42088f0be",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -133,7 +119,7 @@
             }
           },
           {
-            "id": "3b7bf096c50df6b9",
+            "id": "2f2653a6d9dd94f1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -150,7 +136,7 @@
             }
           },
           {
-            "id": "50ea5bcaa3f2e0d9",
+            "id": "dd9fb660313c82ce",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -166,21 +152,21 @@
     "width": 300
   },
   "right": {
-    "id": "7fb05f7cfb4aaeff",
+    "id": "d8b6302515b21892",
     "type": "split",
     "children": [
       {
-        "id": "6d6cd98d013a3de3",
+        "id": "25e18aa29a44f7e4",
         "type": "tabs",
         "children": [
           {
-            "id": "a88e340971c05a3b",
+            "id": "55518bfe51c7780f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Link.md",
-                "collapseAll": true,
+                "file": "Programming Links.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -189,25 +175,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programming Link"
+              "title": "Backlinks for Programming Links"
             }
           },
           {
-            "id": "49c870f4acbf6746",
+            "id": "edc74dab7f33f197",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Link.md",
+                "file": "Programming Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Programming Link"
+              "title": "Outgoing links from Programming Links"
             }
           },
           {
-            "id": "6c8dbec1d7d4ed41",
+            "id": "095627986429d7a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -222,22 +208,21 @@
             }
           },
           {
-            "id": "e744c746f75576de",
+            "id": "6aaadbf0909da0b0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Link.md",
+                "file": "Programming Links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Programming Link"
+              "title": "Outline of Programming Links"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,63 +231,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "932712465c08697f",
+  "active": "a03e8bab33a1334c",
   "lastOpenFiles": [
     "Programming Links.md",
-    "Final_Project_Needs_Links.md",
-    "2nd_Year_1st_Sem_System/Dummy_acc.md",
-    "2nd_Year_1st_Sem_System/Reject flask code/Flask code that didnt work.md",
-    "2nd_Year_1st_Sem_System/Dio  + Cookie Jar.md",
-    "2nd_Year_1st_Sem_System/OAuth Client Secrets.png",
-    "2nd_Year_1st_Sem_System/google_credentials_system.png",
-    "Programming/Cheat Sheet/Python Cheat Sheet/Classes & Objects Python.md",
-    "Frontend Link.md",
-    "2nd_Year_1st_Sem_System/Reject flask code/Flask code that Work.md",
-    "2nd_Year_1st_Sem_System/flutter_web_auth_2.md",
-    "2nd_Year_1st_Sem_System/API Endpoints.md",
-    "2nd_Year_1st_Sem_System/Reject flask code/Add model.md",
-    "Subfolder Programming/Important.md",
-    "2nd_Year_1st_Sem_System/Reject flask code",
-    "2nd_Year_1st_Sem_System",
+    "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet Dart.md",
+    "Programming/Flask/Something to Initialize venv and other.md",
+    "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet SQL.md",
+    "Subfolder Programming/Cheat Sheet Folder/Programming Cheat Sheet.md",
     "Subfolder Programming/Programming Things.md",
-    "Subfolder Programming/DSA Folder/DSA.md",
-    "Subfolder Programming/DSA Folder/DSA Notes.md",
-    "Programming/Data Structure freeCodeCamp/Fenwick Tree.md",
-    "Programming/Data Structure freeCodeCamp/Queue Introduction.md",
-    "Programming/Data Structure freeCodeCamp/Introduction to Big-O.md",
-    "Subfolder Programming/Roadmap/DSA Roadmap.md",
-    "Subfolder Programming/Web Dev Folder/React Proxy & .env.md",
+    "Subfolder Programming/Roadmap/Programming Roadmap.md",
+    "Subfolder Programming/Roadmap/Java Roadmap.md",
+    "Subfolder Programming/Roadmap/ASP.NET CORE Roadmap.md",
+    "Subfolder Programming/Flask Stuff.md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/Future (async tasks).md",
+    "Programming/Cheat Sheet/Dart Cheat Sheet/async & await.md",
+    "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet Csharp.md",
+    "Programming/Cheat Sheet/Csharp Cheat Sheet/Using Type, PropertyInfo, MethodInfo Csharp.md",
+    "Programming/Cheat Sheet/Csharp Cheat Sheet/Accessing metadata of types at runtime Csharp.md",
+    "Programming/Cheat Sheet/Csharp Cheat Sheet/Access Modifier.md",
+    "Programming/Cheat Sheet/Csharp Cheat Sheet/Struct vs Class Csharp.md",
+    "Programming/Cheat Sheet/Csharp Cheat Sheet/Creating and using enum Csharp.md",
+    "Programming/Cheat Sheet/Python Cheat Sheet/__name__ ==  “__main__” Python.md",
+    "Subfolder Programming/Cheat Sheet Folder/Cheat Sheet Python.md",
+    "Programming/Cheat Sheet/Python Cheat Sheet/Magic - Dunder Methods Python.md",
+    "Subfolder Programming/Web Dev Folder/HTTP Status Code.md",
     "Subfolder Programming/Web Dev Folder/Web Development Topics.md",
-    "Subfolder Programming/Roadmap/Web Dev Roadmap.md",
-    "Subfolder Programming/Power Shell Commands.md",
-    "Subfolder Programming/BroCode Folder/Bro Code.md",
-    "Pasted image 20250925141741.png",
-    "Subfolder Programming/Git Folder/Git.md",
-    "huashi_summer_steps.jpg",
-    "Pasted image 20250910202912.png",
-    "88eebc2a-7ab4-45de-bd2f-cd581cf9cbcf.jpg",
-    "Subfolder Programming/Images/Pasted image 20250910202912.png",
-    "Subfolder Programming/Images/88eebc2a-7ab4-45de-bd2f-cd581cf9cbcf.jpg",
-    "Subfolder Programming/Images",
-    "Untitled.base",
-    "Programming/Cheat Sheet/Python Cheat Sheet",
-    "Programming/Cheat Sheet/Python Cheat Sheet",
-    "Notion",
-    "Untitled 1.base",
-    "Subfolder Frontend",
-    "Subfolder Programming/Images/huashi_summer_steps.jpg",
-    "Front End/JS",
-    "Subfolder Programming/Images/image.png"
+    "Programming/Flask/Flask Snippets.md",
+    "Frontend Link.md",
+    "2nd_Year_1st_Sem_System/Reject flask code/Flask code that Work.md"
   ]
 }

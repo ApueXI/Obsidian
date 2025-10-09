@@ -102,3 +102,22 @@
 |`git stash apply`|Reapply stashed changes|
 |`git diff`|See what's changed|
 |`git tag`|Show or create tags (releases)|
+
+## 🛠 ==Git Stash==
+
+|Command|Description|
+|---|---|
+|`git stash`|Stash tracked changes (default).|
+|`git stash -u`|Stash tracked **and untracked** files.|
+|`git stash -a`|Stash **all changes** (tracked, untracked, ignored).|
+|`git stash save "msg"`|Stash with a custom message (older style, still works).|
+|`git stash push -m "msg"`|Preferred way to stash with a message.|
+|`git stash list`|Show all stashed entries.|
+|`git stash show`|Show summary of latest stash.|
+|`git stash show -p`|Show patch (diff) of latest stash.|
+|`git stash pop`|Apply latest stash and **remove it** from stash list.|
+|`git stash apply`|Apply latest stash but **keep it** in stash list.|
+|`git stash apply stash@{n}`|Apply specific stash (by index).|
+|`git stash drop stash@{n}`|Delete specific stash.|
+|`git stash clear`|Remove **all** stashes.|
+|`git stash branch new-branch`|Create a new branch and apply the stash there.|
