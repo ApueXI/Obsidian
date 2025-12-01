@@ -27,14 +27,15 @@ tags:
 
 ## 2. Summary Table (Quick Reference)
 
-|Function|Syntax / Example|Notes|
-|---|---|---|
-|COUNT|`SELECT COUNT(*) FROM users;`|Counts all rows|
-|SUM|`SELECT SUM(salary) FROM employees;`|Total sum of column|
-|AVG|`SELECT AVG(age) FROM users;`|Average value|
-|MIN|`SELECT MIN(price) FROM products;`|Smallest value|
-|MAX|`SELECT MAX(price) FROM products;`|Largest value|
-|GROUP BY|`SELECT department, COUNT(*) FROM employees GROUP BY department;`|Aggregate per group|
+| Function | Syntax / Example                                                  | Notes               |
+| -------- | ----------------------------------------------------------------- | ------------------- |
+| COUNT    | `SELECT COUNT(*) FROM users;`                                     | Counts all rows     |
+| SUM      | `SELECT SUM(salary) FROM employees;`                              | Total sum of column |
+| AVG      | `SELECT AVG(age) FROM users;`                                     | Average value       |
+| MIN      | `SELECT MIN(price) FROM products;`                                | Smallest value      |
+| MAX      | `SELECT MAX(price) FROM products;`                                | Largest value       |
+| GROUP BY | `SELECT department, COUNT(*) FROM employees GROUP BY department;` | Aggregate per group |
+| ROUND    | SELECT ROUND(AVG(age),n) FROM users;`                             | n = number          |
 
 ---
 
@@ -74,7 +75,7 @@ WHERE status = 'completed';
 ### Step 3: Average order amount
 
 ```SQL
-SELECT AVG(amount) AS avg_order
+SELECT ROUND(AVG(amount),2) AS avg_order
 FROM orders;
 
 ```

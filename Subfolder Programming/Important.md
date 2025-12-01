@@ -13,6 +13,8 @@
 > 
 > ### [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 > ### [Please Master This MAGIC Python Feature... 🪄](https://www.youtube.com/watch?v=qqp6QN20CpE)
+> ### [5 CSS Tips & Tricks for better Responsive Web Design](https://www.youtube.com/watch?v=2IV08sP9m3U)
+> ### [Learn CSS Flexbox in 20 Minutes (Course)](https://www.youtube.com/watch?v=wsTv9y931o8)
 
 > [!Something in excel or something]
 > 

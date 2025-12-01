@@ -17,3 +17,5 @@
 ## [[Hoisting & TDZ]]
 
 ## [[Subfolder Programming/Important|Important]]
+
+## [Visual Studio Hotkey](https://visualstudio.microsoft.com/keyboard-shortcuts.pdf)

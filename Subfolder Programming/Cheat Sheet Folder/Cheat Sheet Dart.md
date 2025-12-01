@@ -7,7 +7,7 @@
 |[[Variables & constants- var, final, const]]|September 16, 2025 7:44 PM|Basic Syntax|
 |[[Data types- int, double, String, bool, num]]|September 16, 2025 7:44 PM|Basic Syntax|
 |[[dynamic vs Object vs var]]|September 16, 2025 7:44 PM|Basic Syntax|
-|[[Type inference]]|September 16, 2025 7:45 PM|Basic Syntax|
+|[[Programming/Cheat Sheet/Typescript/Type inference]]|September 16, 2025 7:45 PM|Basic Syntax|
 |[[Null safety (, !, late)]]|September 16, 2025 7:45 PM|Basic Syntax|
 |[[Arithmetic- +, -, , -, ~-, %]]|September 16, 2025 7:46 PM|Operators|
 |[[Relational- ==, !=, , , =, =]]|September 16, 2025 7:48 PM|Operators|
@@ -41,7 +41,7 @@
 |[[this keyword]]|September 16, 2025 8:05 PM|Classes & Objects|
 |[[Object instantiation]]|September 16, 2025 8:05 PM|Classes & Objects|
 |[[toString() override]]|September 16, 2025 8:06 PM|Classes & Objects|
-|[[Inheritance (extends)]]|September 16, 2025 8:07 PM|OOP|
+|[[Programming/Cheat Sheet/Typescript/Inheritance (extends)]]|September 16, 2025 8:07 PM|OOP|
 |[[Abstract classes & methods]]|September 16, 2025 8:08 PM|OOP|
 |[[Interfaces (implements)]]|September 16, 2025 8:08 PM|OOP|
 |[[Mixins (mixin, with)]]|September 16, 2025 8:09 PM|OOP|

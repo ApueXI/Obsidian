@@ -3,7 +3,7 @@ Created: 2025-08-12T06:46
 ---
 ### C# — LinkedList.cs
 
-```C#
+```Csharp
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -279,7 +279,7 @@ class Program
 
 ### C# — DoublyLinkedList.cs
 
-```C#
+```Csharp
 using System;
 using System.Collections.Generic;
 using System.Text;
